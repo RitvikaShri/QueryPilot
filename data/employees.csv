@@ -1,0 +1,31 @@
+employee_id,employee_name,department,designation,employment_type,location,joining_date,employment_status,basic_monthly_salary,manager_id
+EMP001,Aarav Mehta,Engineering,Software Engineer,Full-time,Pune,2026-02-27,Active,54000,
+EMP002,Vivaan Verma,Sales,Sales Executive,Full-time,Mumbai,2026-02-17,Active,44000,EMP001
+EMP003,Aditya Sharma,Human Resources,HR Executive,Full-time,Nagpur,2024-05-14,Active,77000,EMP001
+EMP004,Arjun Joshi,Finance,Accountant,Full-time,Mumbai,2023-04-22,Active,56000,EMP001
+EMP005,Reyansh Iyer,Operations,Operations Executive,Full-time,Mumbai,2023-02-12,Active,72000,EMP001
+EMP006,Ishaan Singh,Customer Support,Support Specialist,Full-time,Bengaluru,2024-07-08,Active,42000,EMP001
+EMP007,Kabir Patel,Engineering,Software Engineer,Full-time,Hyderabad,2026-07-09,Active,102000,
+EMP008,Rohan Gupta,Sales,Account Manager,Full-time,Bengaluru,2022-11-15,Active,53000,EMP007
+EMP009,Anaya Verma,Human Resources,HR Executive,Full-time,Bengaluru,2024-02-18,Active,44000,EMP007
+EMP010,Diya Malhotra,Finance,Financial Analyst,Full-time,Nagpur,2023-06-26,Active,82000,EMP007
+EMP011,Ira Verma,Operations,Business Analyst,Full-time,Hyderabad,2025-01-03,Active,65000,EMP007
+EMP012,Aadhya Kulkarni,Customer Support,Support Associate,Full-time,Mumbai,2023-08-24,Active,64000,EMP007
+EMP013,Saanvi Iyer,Engineering,QA Engineer,Full-time,Nagpur,2023-01-29,Active,90000,
+EMP014,Myra Malhotra,Sales,Sales Executive,Full-time,Bengaluru,2023-04-12,Active,78000,EMP013
+EMP015,Kiara Nair,Human Resources,HR Executive,Full-time,Bengaluru,2022-07-26,Active,53000,EMP013
+EMP016,Meera Patel,Finance,Financial Analyst,Full-time,Bengaluru,2024-01-18,Active,84000,EMP013
+EMP017,Riya Mehta,Operations,Operations Manager,Full-time,Nagpur,2025-10-04,Active,49000,EMP013
+EMP018,Anika Iyer,Customer Support,Support Lead,Full-time,Pune,2024-12-29,Active,39000,EMP013
+EMP019,Sara Mehta,Engineering,Senior Software Engineer,Full-time,Mumbai,2024-02-17,Active,82000,
+EMP020,Tara Kulkarni,Sales,Sales Executive,Full-time,Nagpur,2023-10-27,Active,80000,EMP019
+EMP021,Dev Rao,Human Resources,HR Executive,Full-time,Hyderabad,2026-07-07,Active,40000,EMP019
+EMP022,Kavya Das,Finance,Financial Analyst,Full-time,Mumbai,2023-03-09,Active,46000,EMP019
+EMP023,Nisha Desai,Operations,Business Analyst,Full-time,Hyderabad,2023-03-12,Active,56000,EMP019
+EMP024,Mira Mehta,Customer Support,Support Specialist,Full-time,Pune,2022-10-20,Active,58000,EMP019
+EMP025,Rahul Joshi,Engineering,Senior Software Engineer,Full-time,Bengaluru,2025-02-23,Active,101000,
+EMP026,Neha Das,Sales,Sales Manager,Full-time,Mumbai,2024-05-27,Active,73000,EMP025
+EMP027,Karan Patel,Human Resources,HR Manager,Contract,Mumbai,2023-03-26,Active,62000,EMP025
+EMP028,Isha Sharma,Finance,Financial Analyst,Contract,Nagpur,2026-03-28,Active,48000,EMP025
+EMP029,Ayaan Malhotra,Operations,Operations Executive,Contract,Hyderabad,2022-11-24,Active,76000,EMP025
+EMP030,Zoya Nair,Customer Support,Support Lead,Contract,Mumbai,2024-02-28,Active,32000,EMP025
